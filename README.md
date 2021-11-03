@@ -1,1 +1,1 @@
-# Java-Script
+# Учебный проект по JavaScript
